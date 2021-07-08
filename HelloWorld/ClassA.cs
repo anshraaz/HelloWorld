@@ -7,5 +7,9 @@ namespace HelloWorld
 {
     class ClassA
     {
+        public static void Display()
+        {
+            Console.WriteLine("Ravi Created This Function");
+        }
     }
 }
